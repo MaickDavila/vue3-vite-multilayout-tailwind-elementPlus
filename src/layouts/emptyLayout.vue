@@ -1,7 +1,9 @@
 <template>
   <div class="w-full h-screen flex flex-col justify-center items-center">
-    <main class="w-full">
-      <router-view></router-view>
+    <main>
+      <router-view />
     </main>
+
+    <footer class="text-xs text-gray-400">This is a Empty Layout!</footer>
   </div>
 </template>

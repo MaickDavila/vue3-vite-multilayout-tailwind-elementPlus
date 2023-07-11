@@ -4,7 +4,7 @@ use customLayout on
 meta: {
   layout: customLayout
 }
-#custonLayout is a vue component of layouts/folder
+#customLayout is a vue component of layouts/folder
 */
 const routesConfig = [
   {
